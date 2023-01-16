@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
     public Camera tpsCamera;
     public Camera fpsCamera;
     public KeyCode switchKey;
-    public string inputID
+    public string inputID;
 
     // Start is called before the first frame update
     void Start()
