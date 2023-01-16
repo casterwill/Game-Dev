@@ -1,2 +1,3 @@
 Ini adalah Folder github untuk hobi Game Development saya.
 Saya juga baru belajar git dan github
+Saya mengedit file Game-Dev.txt ini
